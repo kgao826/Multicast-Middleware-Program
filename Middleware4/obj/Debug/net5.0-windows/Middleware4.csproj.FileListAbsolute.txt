@@ -1,0 +1,44 @@
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.exe
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.deps.json
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.runtimeconfig.json
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.runtimeconfig.dev.json
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.dll
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\ref\Middleware4.dll
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.pdb
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4_MarkupCompile.cache
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4_MarkupCompile.lref
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.g.resources
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.AssemblyInfo.cs
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.dll
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\ref\Middleware4.dll
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.pdb
+C:\Users\Gaok1\Desktop\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.genruntimeconfig.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.exe
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.deps.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\ref\Middleware4.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\bin\Debug\net5.0-windows\Middleware4.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4_MarkupCompile.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4_MarkupCompile.lref
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.g.resources
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\ref\Middleware4.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\kgao826\Middleware4\obj\Debug\net5.0-windows\Middleware4.genruntimeconfig.cache

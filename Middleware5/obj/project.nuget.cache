@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEM9JY2dynAIwgss+eD+LrAcD0i2h7gPVBqpBSA0DcAyANYrqTN8oujLpheZMv0zBPJqNGuT8wS6BKYcEIM8Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaok1\\OneDrive\\University\\2021 S2\\COMPSCI 711\\kgao826\\Middleware5\\Middleware5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaok1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
